@@ -1,0 +1,58 @@
+[{
+    "id":1,
+    "name":"ak portfolio",
+    "title":"Alright. Think of a website store as a digital shop where you can browse and buy products or services online.",
+    "price":10000,
+    "category":"normal",
+    "image":"https://img.freepik.com/free-vector/online-learning-education-concept_1308-172784.jpg?ga=GA1.1.705864587.1728727549&semt=ais_hybrid"
+
+},{
+    "id":2,
+    "name":"ak ecomomical",
+    "title":"Alright. Think of a website store as a digital shop where you can browse and buy products or services online.",
+    "price":15000,
+    "category":"normal",
+    "image":"https://img.freepik.com/free-vector/online-learning-education-concept_1308-172784.jpg?ga=GA1.1.705864587.1728727549&semt=ais_hybrid"
+
+},{
+    "id":3,
+    "name":"ak shoping ",
+    "title":"Alright. Think of a website store as a digital shop where you can browse and buy products or services online.",
+    "price":10000,
+    "category":"normal",
+    "image":"https://img.freepik.com/free-vector/online-learning-education-concept_1308-172784.jpg?ga=GA1.1.705864587.1728727549&semt=ais_hybrid"
+
+},{
+    "id":4,
+    "name":"ak bookstore",
+    "title":"Alright. Think of a website store as a digital shop where you can browse and buy products or services online.",
+    "price":20000,
+    "category":"normal",
+    "image":"https://img.freepik.com/free-vector/online-learning-education-concept_1308-172784.jpg?ga=GA1.1.705864587.1728727549&semt=ais_hybrid"
+
+},{
+    "id":5,
+    "name":"ak sports",
+    "title":"Alright. Think of a website store as a digital shop where you can browse and buy products or services online.",
+    "price":10000,
+    "category":"normal",
+    "image":"https://img.freepik.com/free-vector/online-learning-education-concept_1308-172784.jpg?ga=GA1.1.705864587.1728727549&semt=ais_hybrid"
+
+},{
+    "id":6,
+    "name":"ak basketball",
+    "title":"Alright. Think of a website store as a digital shop where you can browse and buy products or services online.",
+    "price":10000,
+    "category":"normal",
+    "image":"https://img.freepik.com/free-vector/online-learning-education-concept_1308-172784.jpg?ga=GA1.1.705864587.1728727549&semt=ais_hybrid"
+
+},{
+    "id":7,
+    "name":"ak desginer",
+    "title":"Alright. Think of a website store as a digital shop where you can browse and buy products or services online.",
+    "price":10000,
+    "category":"normal",
+    "image":"https://img.freepik.com/free-vector/online-learning-education-concept_1308-172784.jpg?ga=GA1.1.705864587.1728727549&semt=ais_hybrid"
+
+}
+]
